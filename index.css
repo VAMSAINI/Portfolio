@@ -1,0 +1,102 @@
+body{
+    margin: 0%;
+    width: 100%;
+}
+.horizantalLine{
+    border-style: solid;
+    border-width: 10%;
+    width: 30%;
+    border-color: teal;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
+}
+.horizantalCircles{
+    border-style:dotted;
+    border-width: 10px;
+    width: 10%;
+    border-color: white;
+    background-color: #F0F8FF;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 0;
+}
+h1{
+    padding: 10px;
+    font-size: 40px;
+    margin: 0%;
+    font-family: Dancing Script, cursive;
+    color: #008B8B;
+}
+h2{
+    margin: 0%;
+    font-family: 'Montserrat', sans-serif;
+    color: #008B8B;
+    padding: 10px;
+}
+h3{
+    margin: 0%;
+    font-family: 'Montserrat', sans-serif;
+    color: #008B8B;
+    padding: 10px;
+}
+p{
+    margin: 0%;
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px;
+    font-size: 18px;
+}
+a{
+    margin: 10px;
+    color: white;
+}
+img{
+    margin: 0%;
+}
+.navigationBar{
+    background-color: teal;
+    height: 30px;
+    padding: 10px;
+    margin: 0%;
+}
+.introText{
+    position: absolute;
+    top: 40%;
+    left: 12%;
+    color: teal;
+    font-size: 20px;
+}
+.container{
+    margin: 0%;
+    display: block;
+    position: relative;
+    width: 100%;
+    background-color: #F0F8FF;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.inlineComp{
+    display: inline-block;
+    width: 400px;
+}
+.footer{
+    position: relative;
+    color: white;
+    background-color: #8FBC8F;
+    height: 200px;
+}
+.footerContent{
+    position: absolute;
+    right: 0;
+    padding-top: 10px;
+}
+.footerLinks{
+    position: absolute;
+    left:40%;
+    top:40%;
+}
+.footerCopyright{
+    position: absolute;
+    left:40%;
+    top:80%;
+}
