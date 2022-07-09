@@ -66,10 +66,11 @@ img{
 }
 .introText{
     position: absolute;
-    top: 40%;
+    top: 52%;
     left: 12%;
     color: teal;
     font-size: 20px;
+    text-align: center;
 }
 .container{
     margin: 0%;
