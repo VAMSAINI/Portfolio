@@ -82,7 +82,7 @@ img{
 .footer{
     position: relative;
     color: white;
-    background-color: #8FBC8F;
+    background-color: teal;
     height: 200px;
 }
 .footerContent{
