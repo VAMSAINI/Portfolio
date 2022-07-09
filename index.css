@@ -94,10 +94,11 @@ img{
     padding: 20px 0 20px 0;
 }
 .footerpara{
-    display: inline;
+    color: white;
+    font-size: 14px;
 }
 .footerCopyright{
-    padding-top: 11px;
+    padding-top: 10px;
     color: white;
     text-align: center;
 }
