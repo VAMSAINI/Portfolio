@@ -85,4 +85,8 @@ p{
     color: white;
     font-size: 0.875rem;
 }
+.projectCards{
+    position: relative;
+    left: 15%;
+}
 
